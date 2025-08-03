@@ -1,0 +1,18 @@
+# Build output
+target/
+
+# Application properties (contains secrets)
+src/main/resources/application.properties
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# STS and Eclipse files
+.classpath
+.project
+.settings/
